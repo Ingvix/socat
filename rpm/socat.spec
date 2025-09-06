@@ -1,5 +1,5 @@
-%define majorver 1.7
-%define minorver 4.2
+%define majorver 1.8
+%define minorver 0.3
 
 Name:       socat
 Summary:    Multipurpose relay for bidirectional data transfer
